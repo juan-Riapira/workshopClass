@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "EstudiantesServicesJWT.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "proyectoestudiantes",
+        "runtime": "python3.13",
+        "s3_bucket": "zappa-2qp6v67sh"
+    }
+}

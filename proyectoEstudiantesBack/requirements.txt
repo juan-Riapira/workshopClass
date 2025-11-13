@@ -1,0 +1,6 @@
+Flask==3.x
+flask-cors
+flask-jwt-extended
+flasgger==0.9.7.1
+jsonschema==4.21.1
+referencing==0.30.2
